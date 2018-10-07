@@ -4,7 +4,7 @@ public class Curso {
 	String nome;
 	int codigo;
 	String turno;
-	String professor;
+	Professor professor;
 	String coordenador;
 	String grade;
 	

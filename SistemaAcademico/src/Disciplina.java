@@ -3,7 +3,7 @@ public class Disciplina {
 
 	String nome;
 	int codigo;
-	String professor;
+	Professor codigoProfessor;
 	String chamada;
 	String sala;
 	String cargaHoraria;

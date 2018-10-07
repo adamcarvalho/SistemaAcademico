@@ -2,12 +2,12 @@
 public class Aluno {
 	
 	String nome;
-	String cpf;
+	int cpf;
 	int matricula; 
 	String endereco;
 	String email;
-	String telefone;
+	int telefone;
 	String situacao;
-	String cursos;
-	String disciplinas;
+	Curso curso;
+	Disciplina disciplina;
 }
